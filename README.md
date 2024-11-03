@@ -36,5 +36,5 @@ To run this project locally:
    ```bash
    git clone git@github.com:rajatmaheshwari17/rajatmaheshwari17.github.io.git
 ## 
-_This README is a part of the Connect4-AI-Agent Project by Rajat Maheshwari._
+_This README is a part of the Portfolio-Website Project by Rajat Maheshwari._
 
